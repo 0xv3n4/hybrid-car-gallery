@@ -1,10 +1,14 @@
-# Car Gallery ![](https://img.shields.io/badge/build-passing-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=green)
+# Car Gallery ![](https://img.shields.io/badge/build-passing-informational?style=flat&logo=<LOGO_NAME>&logoColor=green&color=green)
 
-![](https://img.shields.io/badge/Swift-5-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=orange)
 
 ## Introduction ##
 
 ## Technologies ##
+![](https://img.shields.io/badge/Swift-5-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=orange)
+
+![](https://img.shields.io/badge/build-passing-informational?style=flat&logo=<LOGO_NAME>&logoColor=blue&color=blue)
+
+
 
 ## Launch ##
 
