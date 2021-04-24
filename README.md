@@ -1,7 +1,19 @@
-# Car Gallery
+# Car Gallery ![](https://img.shields.io/badge/build-passing-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=green)
 
-![https://www.swift.com](https://img.shields.io/badge/Swift-5-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=orange)
+![](https://img.shields.io/badge/Swift-5-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=orange)
 
+## Introduction ##
 
-  
-  Car gallery application with hybrid connections. 
+## Technologies ##
+
+## Launch ##
+
+## Features ##
+
+## Contact Me ##
+
+### Boran Akova ### 
+#### You can find me on  *_[![LinkedIn][1.2]][1]_* ####
+
+[1.2]: https://img.shields.io/badge/-in-blue
+[1]: https://www.linkedin.com/in/boran-akova-328477171/
