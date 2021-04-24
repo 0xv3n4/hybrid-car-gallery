@@ -3,9 +3,9 @@
 
 ## Introduction ##
 
-Within the scope of the project work carried out, an automation program was developed in which a car dealership chain can provide error-free and uninterrupted service to its customers within the specified scenarios. This study was carried out taking into account that customers can purchase and sell vehicles from their mobile devices and sell their cars to the showroom. Within the scope of the added features, it is aimed that the gallery in the sector will serve and manage better. The interface developed within the scope of mobile only provides a fast service to customers. 
+An automation program has been developed in which an automobile dealer chain can provide its customers with error-free and uninterrupted service within the specified scenarios. This study was carried out taking into account that customers can purchase and sell vehicles from their mobile devices and sell their cars to the showroom. Within the scope of the added features, it is aimed that the gallery in the sector will serve and manage better. The interface developed within the scope of mobile only provides a fast service to customers. 
 
-While developing the mobile part of an application, I decided the Swift components and the advantages of the IOS Simulator. My experience with XCode has been quite difficult. However, the components of the Swift UI are easy to use. 
+While developing the mobile part of an application, I decided the Swift components and the advantages of the IOS Simulator. My experience with XCode has been quite difficult. However, the components of the Swift UI were easy to use. 
 
 _WARNING_ : This project is hybrid-based mobile and desktop platform app. ***The desktop interface part of the application is not included.***
 
@@ -26,6 +26,11 @@ If you want to use this app to your database. Make sure your OS version is compa
                 request.setValue(postLength as String, forHTTPHeaderField: "Content-Length")
                            request.setValue("application/x-www-form-urlencoded", forHTTPHeaderField: "Content-Type")
                            request.setValue("application/json", forHTTPHeaderField: "Accept")
+                           
+- Add the tables in the designed diagram to your database with SQL queries or manually.
+- Then launch the app with XCode Storyboard extension. 
+- Signup and login to the app.
+- Manipulate the features of the app for your needs.
 
 
 ## Features ##
