@@ -4,7 +4,8 @@
 ## Introduction ##
 
 ## Technologies ##
-![](https://img.shields.io/badge/Swift-5-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=orange) ![](https://img.shields.io/badge/XCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=blue)
+![](https://img.shields.io/badge/Swift-5-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=orange) ![](https://img.shields.io/badge/XCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=blue) ![](https://img.shields.io/badge/Php-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=purple) ![](https://img.shields.io/badge/Restful-API-informational?style=flat&logo=<LOGO_NAME>&logoColor=orange&color=red) 
+
 
 
 
