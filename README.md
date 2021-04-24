@@ -13,9 +13,11 @@
 
 ## Features ##
 
+## Conclusion ##
+
 ## Contact Me ##
 
-### Boran Akova ### 
+#### *_Boran Akova_* ####
 #### You can find me on  *_[![LinkedIn][1.2]][1]_* ####
 
 [1.2]: https://img.shields.io/badge/-in-blue
