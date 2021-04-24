@@ -15,7 +15,7 @@ _WARNING_ : This project is hybrid-based mobile and desktop platform app. ***The
 
 ## Launch ##
 
-If you want to use this app to your database. Make sure your OS version is compatable. You need to update XCode and Swift 5 to access Swift UI components of UIKit. And install one simulator to your device. I preferred Iphone 11 Pro Simulator to test my app activities.
+If you want to use this app to your database. Make sure your OS version is compatable with app. You need to update XCode and Swift 5 to access Swift UI components of UIKit. And install one simulator to your device. I preferred Iphone 11 Pro Simulator to test my app activities.
 
 - Upgrade your XCode version at least 10.4.2 and Swift 5.
 - Connect your database with Restful-API 
