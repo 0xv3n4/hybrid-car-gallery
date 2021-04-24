@@ -50,7 +50,7 @@ I designed and developed this project to enhance my engineering career while I w
 
 #### *_Boran Akova_* ####
 #### You can find me on  *_[![LinkedIn][1.2]][1]_* ####
-## akova.boran@gmail.com ##
+akova.boran@gmail.com
 
 [1.2]: https://img.shields.io/badge/-in-blue
 [1]: https://www.linkedin.com/in/boran-akova-328477171/
