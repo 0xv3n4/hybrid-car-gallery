@@ -42,7 +42,7 @@ If you want to use this app to your database. Make sure your OS version is compa
 
 ## Conclusion ##
 
-In this context I responsible for all of Swift UI mechanism for developing IOS app for Iphone devices.
+In this context I responsible for all of Swift UI mechanism for developing IOS app on Iphone devices.
 
 I designed and developed this project to enhance my engineering career while I was still a student. I learned lots of information about Swift language and Mobile application development. I hope it was useful.
 
