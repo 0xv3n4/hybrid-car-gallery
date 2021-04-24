@@ -35,12 +35,22 @@ If you want to use this app to your database. Make sure your OS version is compa
 
 ## Features ##
 
+- ### Login and Signup ### 
+- ### Manage advertisement as an Admin ###
+- ### Buy , Rent Cars in stock. ### 
+- ### Add Cars in stock, sell or lease ### 
+
 ## Conclusion ##
+
+In this context I responsible for all of Swift UI mechanism for developing IOS app for Iphone devices.
+
+I designed and developed this project to enhance my engineering career while I was still a student. I learned lots of information about Swift language and Mobile application development. I hope it was useful.
 
 ## Contact Me ##
 
 #### *_Boran Akova_* ####
 #### You can find me on  *_[![LinkedIn][1.2]][1]_* ####
+## akova.boran@gmail.com ##
 
 [1.2]: https://img.shields.io/badge/-in-blue
 [1]: https://www.linkedin.com/in/boran-akova-328477171/
