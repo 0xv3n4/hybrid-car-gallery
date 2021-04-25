@@ -57,8 +57,9 @@ class Satilik: UIViewController {
                      
         var postLength1:NSString = String( postData1.length ) as NSString
                      
-             
-                 let url = URL(string: "http://allweun.com/api/insertFaturaSat.php")!
+                 // This url could be a your remote Restful API url.
+                 // Change yourApiProvider text for yourself.
+                 let url = URL(string: "http://www.yourApiProvider.com/api/insertFaturaSat.php")!
                  var request = URLRequest(url: url)
                      request.httpMethod = "POST"
                      request.httpBody = postData1 as Data
