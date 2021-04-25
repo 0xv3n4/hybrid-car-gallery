@@ -64,8 +64,8 @@ class SatVC: UIViewController {
         
         var postLength:NSString = String( postData.length ) as NSString
     // This url could be a your remote Restful API url.
-    // Change yourApiProvider text for yourself.   
-    let url = URL(string: "http://www.yourApiProvider.com/api/insertArac.php")!
+    // Change yourApiProvider text for yourself.
+    let url = URL(string: "http://www.yourprovider.com/api/insertArac.php")!
     var request = URLRequest(url: url)
         request.httpMethod = "POST"
         request.httpBody = postData as Data

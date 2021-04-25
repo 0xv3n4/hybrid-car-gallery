@@ -50,7 +50,7 @@ class KaydolVC: UIViewController {
             
         // This url could be a your remote Restful API url.
         // Change yourApiProvider text for yourself.
-        let url = URL(string: "http://www.yourApiProvider.com/api/usersignup.php")!
+        let url = URL(string: "http://www.yourprovider.com/api/userlogin.php")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
             request.httpBody = postData as Data
