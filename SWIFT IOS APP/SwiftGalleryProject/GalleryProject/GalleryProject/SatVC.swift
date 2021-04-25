@@ -64,7 +64,7 @@ class SatVC: UIViewController {
         
         var postLength:NSString = String( postData.length ) as NSString
         
-    let url = URL(string: "http://www.allweun.com/api/insertArac.php")!
+    let url = URL(string: "http://www.yourprovider.com/api/insertArac.php")!
     var request = URLRequest(url: url)
         request.httpMethod = "POST"
         request.httpBody = postData as Data
