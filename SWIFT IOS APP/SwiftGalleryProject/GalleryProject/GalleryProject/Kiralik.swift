@@ -70,7 +70,7 @@ class Kiralik: UIViewController{
                var postLength1:NSString = String( postData1.length ) as NSString
                            
                    
-                       let url = URL(string: "http://allweun.com/api/insertFaturaKirala.php")!
+                       let url = URL(string: "http://www.yourprovider.com/api/insertFaturaKirala.php")!
                        var request = URLRequest(url: url)
                            request.httpMethod = "POST"
                            request.httpBody = postData1 as Data
