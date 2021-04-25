@@ -48,7 +48,7 @@ class KaydolVC: UIViewController {
             
             var postLength:NSString = String( postData.length ) as NSString
             
-        let url = URL(string: "http://www.allweun.com/api/usersignup.php")!
+        let url = URL(string: "http://www.yourprovider.com/api/userlogin.php")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
             request.httpBody = postData as Data
